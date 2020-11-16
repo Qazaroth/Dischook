@@ -1,0 +1,20 @@
+{
+  "name": "dischook",
+  "version": "1.0.0",
+  "description": "A simple library to access discord webhooks and use them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon examples/test.js"
+  },
+  "keywords": [
+    "discord",
+    "webhook",
+    "hook"
+  ],
+  "author": "Qazaroth",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "nodemon": "^2.0.6"
+  }
+}
